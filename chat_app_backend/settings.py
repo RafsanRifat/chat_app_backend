@@ -39,6 +39,9 @@ INSTALLED_APPS = [
 
     # Installed Packages
     'rest_framework',
+
+    # custom apps
+    'chat',
 ]
 
 MIDDLEWARE = [
